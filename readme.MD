@@ -73,13 +73,4 @@ Faça um repositório em alguma plataforma de controle de versionamento ([github
 * [OpenWeatherMap](https://rapidapi.com/community/api/open-weather-map)
             [(exemplo de retorno)](http://api.openweathermap.org/data/2.5/weather?q=São%20paulo,br&lang=pt_br&units=metric&appid=aaa1129fc07f4aacb6763552a1f84c0b)
 
-### Conteúdos
-
-* [COMO CRIAR UMA API EM PYTHON COM FASTAPI](https://www.youtube.com/watch?v=bX5NrUWHqyo)
-* [COMO CRIAR UMA API EM PYTHON COM FLESK](https://www.youtube.com/watch?v=RIoC1YOY4yc)
-* [Como criar uma API em Python com FastAPI e primeiras impressões sobre o Framework](https://medium.com/@lucasfrancaid/como-criar-uma-api-em-python-com-fastapi-e-primeiras-impressões-sobre-o-framework-492d9779a6ae?source=rss-------1)
-* [Como criar uma API REST usando Python com FastAPI Framework](https://medium.com/@vinicius_/como-criar-uma-api-rest-usando-python-com-fastapi-framework-1701849c0ce6)
-* [Criando api python flask com swagger](https://medium.com/@jozimar5/criando-api-python-flask-com-swagger-a3ccfa531bd8)
-* [Consumindo API REST com HttpClient no Angular 8](https://medium.com/@fernandoevangelista_28291/consumindo-api-rest-com-httpclient-no-angular-8-62c5d733ffb6)
-
 ![](logo_ADDE_footer.png)
