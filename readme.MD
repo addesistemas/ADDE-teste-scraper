@@ -1,3 +1,4 @@
+![](logo_ADDE_header.png)
 
 # Sobre a ADDE
 
@@ -38,7 +39,7 @@ O prazo máximo para a entrega do teste será de **5 dias corridos** após o env
 
 ## Forma de Entrega
 
-Faça um repositório em alguma plataforma de controle de versionamento ([github](https://github.com), [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/), etc) contendo o projeto e nos mande o link.
+Faça um repositório em alguma plataforma de controle de versionamento ([github](https://github.com), [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/), etc) contendo o projeto e nos mande o link, notificando que a solução está entregue.
 
 ## Pontos extras que podem fazer a diferença
 
@@ -81,4 +82,4 @@ Faça um repositório em alguma plataforma de controle de versionamento ([github
 * [Criando api python flask com swagger](https://medium.com/@jozimar5/criando-api-python-flask-com-swagger-a3ccfa531bd8)
 * [Consumindo API REST com HttpClient no Angular 8](https://medium.com/@fernandoevangelista_28291/consumindo-api-rest-com-httpclient-no-angular-8-62c5d733ffb6)
 
-![](logo_ADDE.png)
+![](logo_ADDE_footer.png)
