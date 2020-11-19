@@ -56,7 +56,7 @@ Sim.
 
 > Por que um Backend para consultar uma API externa?
 
-Na prática não é muito utilizado, a não ser que precise ter um filtro personalizado (paginação, controle de acesso específico, etc) que a API não forneça. De um modo geral, é mais interessante pois te dá mais controle, mas o intúito na verdade é saber se você é capaz de lidar com microserviços de forma objetiva.
+ De modo geral, é mais interessante, pois, te dá mais controle e simplifica o consumo de vários clientes, exemplo: imagine que você tem vários consumidores requisitando essas API, um consumidor Web, um Android e um IOS. Caso você precise trocar a API que provém dados de clima, esta mudança será somente no back-end e não nos clientes que a consomem. Além disso, queremos saber também se você pode lidar com uma API que consome uma ou várias APIs.
 
 > E se o prazo estourar?
 
