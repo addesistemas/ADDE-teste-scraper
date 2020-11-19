@@ -1,4 +1,3 @@
-
 ![logo header](logo_ADDE_header.png)
 
 # Sobre a ADDE
