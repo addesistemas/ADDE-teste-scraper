@@ -1,5 +1,5 @@
 
-# Sobre ADDE
+# Sobre a ADDE
 
 Geramos valor ao negócio​ do nosso cliente através da criação de softwares.
 
@@ -24,7 +24,7 @@ Criar um sistema que mostre o clima atual e a previsão do tempo a partir do inp
 ### Frontend
 
 * Exibir os dados recuperados a partir do input do usuário. Por padrão, a previsão do tempo deve vir com a localização do usuário.
-* Tecnologia: [Angular](https://angular.io/) 7/8/9/10
+* Tecnologia: [Angular](https://angular.io/) (7/8/9/10)
 
 * Após consultar o clima, mostrar
   * Temperatura atual.
