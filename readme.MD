@@ -1,4 +1,5 @@
-![](logo_ADDE_header.png)
+
+![logo header](logo_ADDE_header.png)
 
 # Sobre a ADDE
 
@@ -48,22 +49,27 @@ Faça um repositório em alguma plataforma de controle de versionamento ([github
 * Clean Code.
 * Previsão do tempo para X dias.
 
-## Dúvidas
+## FAQ
 
-> Posso utilizar bibliotecas externas?
->>Sim.
+>Posso utilizar bibliotecas externas?
+
+Sim.
 
 > Por que um Backend para consultar uma API externa?
->>Na prática não é muito utilizado, a não ser que precise ter um filtro personalizado (paginação, controle de acesso específico, etc) que a API não forneça. De um modo geral, é mais interessante pois te dá mais controle, mas o intúito na verdade é saber se você é capaz de lidar com microserviços de forma objetiva.
+
+Na prática não é muito utilizado, a não ser que precise ter um filtro personalizado (paginação, controle de acesso específico, etc) que a API não forneça. De um modo geral, é mais interessante pois te dá mais controle, mas o intúito na verdade é saber se você é capaz de lidar com microserviços de forma objetiva.
 
 > E se o prazo estourar?
->> Entregue o que você fez até aquele momento. Iremos analisar o seu trabalho.
+
+ Entregue o que você fez até aquele momento. Iremos analisar o seu trabalho.
 
 > Que tipo de feedback terei?
->> Se você tiver chance de seguir para uma segunda fase, entraremos em contato e te enviaremos um convite para um bate papo remoto. Caso você não seja aprovado nessa fase, te daremos o feedback por e-mail.
+
+ Se você tiver chance de seguir para uma segunda fase, entraremos em contato e te enviaremos um convite para um bate papo remoto. Caso você não seja aprovado nessa fase, te daremos o feedback por e-mail.
 
 > Caso eu tiver alguma dúvida, poderei entrar em contato dentro deo prazo estipulado?
->> Sim, se você tiver qualquer dúvida, sinta-se a vontade para entrar em contato conosco através do e-mail tecnologia@addesistemas.com.br
+
+ Sim, se você tiver qualquer dúvida, sinta-se a vontade para entrar em contato conosco através do e-mail tecnologia@addesistemas.com.br
 
 ## Dicas
 
@@ -73,4 +79,5 @@ Faça um repositório em alguma plataforma de controle de versionamento ([github
 * [OpenWeatherMap](https://rapidapi.com/community/api/open-weather-map)
             [(exemplo de retorno)](http://api.openweathermap.org/data/2.5/weather?q=São%20paulo,br&lang=pt_br&units=metric&appid=aaa1129fc07f4aacb6763552a1f84c0b)
 
-![](logo_ADDE_footer.png)
+***
+![logo footer](logo_ADDE_490x90.png)
