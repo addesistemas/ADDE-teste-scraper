@@ -1,4 +1,15 @@
-# Sistema de Clima
+
+# Sobre ADDE
+
+Geramos valor ao negócio​ do nosso cliente através da criação de softwares.
+
+Contamos com um time ​polivalente​ capaz de resolver os problemas do cliente de forma clara​ e organizada ​através do desenvolvimento de software.
+
+Somos uma empresa jovem, funcionamos em ritmo de startup.
+
+Ajudamos o cliente em todas as fases, desde a idealização​ do projeto até a entrega ​em produção.
+
+# Sobre o desafio
 
 Criar um sistema que mostre o clima atual e a previsão do tempo a partir do input de uma cidade e/ou localização do usuário.
 
@@ -13,7 +24,7 @@ Criar um sistema que mostre o clima atual e a previsão do tempo a partir do inp
 ### Frontend
 
 * Exibir os dados recuperados a partir do input do usuário. Por padrão, a previsão do tempo deve vir com a localização do usuário.
-* Tecnologia: Angular 7/8/9/10
+* Tecnologia: [Angular](https://angular.io/) 7/8/9/10
 
 * Após consultar o clima, mostrar
   * Temperatura atual.
@@ -69,7 +80,5 @@ Faça um repositório em alguma plataforma de controle de versionamento ([github
 * [Como criar uma API REST usando Python com FastAPI Framework](https://medium.com/@vinicius_/como-criar-uma-api-rest-usando-python-com-fastapi-framework-1701849c0ce6)
 * [Criando api python flask com swagger](https://medium.com/@jozimar5/criando-api-python-flask-com-swagger-a3ccfa531bd8)
 * [Consumindo API REST com HttpClient no Angular 8](https://medium.com/@fernandoevangelista_28291/consumindo-api-rest-com-httpclient-no-angular-8-62c5d733ffb6)
-
-
 
 ![](logo_ADDE.png)
