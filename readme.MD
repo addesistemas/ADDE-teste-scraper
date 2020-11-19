@@ -19,12 +19,12 @@ Criar um sistema que mostre o clima atual e a previsão do tempo a partir do inp
 ### Backend
 
 * Criar um sistema que se comunique com uma api externa para pegar os dados de clima filtrado por cidade/região.
-* Persistir o dados recuperados da API para ser utilizados como cache com tempo limite de 15 minutos.
+* Persistir o dados recuperados da API para serem utilizados como cache com tempo limite de 15 minutos.
 * Tecnologia: Python 3 ([FastApi](https://fastapi.tiangolo.com/), [Flask](https://flask.palletsprojects.com/en/1.1.x/))
 
 ### Frontend
 
-* Exibir os dados recuperados a partir do input do usuário. Por padrão, a previsão do tempo deve vir com a localização do usuário.
+* Exibir os dados recuperados a partir do input do usuário. Por padrão, a previsão do tempo deverá ser baseada na localização atual do usuário.
 * Tecnologia: [Angular](https://angular.io/) (7/8/9/10)
 
 * Após consultar o clima, mostrar
@@ -69,8 +69,6 @@ Na prática não é muito utilizado, a não ser que precise ter um filtro person
 > Caso eu tiver alguma dúvida, poderei entrar em contato dentro deo prazo estipulado?
 
  Sim, se você tiver qualquer dúvida, sinta-se a vontade para entrar em contato conosco através do e-mail tecnologia@addesistemas.com.br
-
-## Dicas
 
 ### Exemplos de APIs que podem ser utilizadas
 
