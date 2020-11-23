@@ -12,26 +12,26 @@ Ajudamos o cliente em todas as fases, desde a idealização​ do projeto até a
 
 # Sobre o desafio
 
-Criar um sistema que mostre o clima atual e a previsão do tempo a partir do input de uma cidade e/ou localização do usuário.
+Criar um scraper que busque as informações de um filme passado por parâmetro para a aplicação.
+
+Ao rodar a aplicação, passaremos o nome do filme, por exemplo: **STAR WARS: O DESPERTAR DA FORÇA**.
+
+Esperamos receber o seguinte resultado:
+
+* Ano de produção;
+* Tipo de filme;
+* Orçamento;
+* Idiomas;
+* Pontuação;
+
 
 ## Requisitos
 
 ### Backend
 
-* Criar um sistema que se comunique com uma api externa para pegar os dados de clima filtrado por cidade/região.
-* Persistir o dados recuperados da API para serem utilizados como cache com tempo limite de 15 minutos.
-* Tecnologia: Python 3 ([FastApi](https://fastapi.tiangolo.com/), [Flask](https://flask.palletsprojects.com/en/1.1.x/))
+* Criar um scraper que se extraia os dados do site: http://www.adorocinema.com/
+* Tecnologias: Python 3, Selenium, Selenium WebDriver
 
-### Frontend
-
-* Exibir os dados recuperados a partir do input do usuário. Por padrão, a previsão do tempo deverá ser baseada na localização atual do usuário.
-* Tecnologia: [Angular](https://angular.io/) (7/8/9/10)
-
-* Após consultar o clima, mostrar
-  * Temperatura atual.
-  * Cidade.
-  * Clima (chovendo, nublado, ensolarado, etc).
-  * Indicativo visual para mostrar o status do clima.
 
 ### Prazo
 
@@ -41,22 +41,12 @@ O prazo máximo para a entrega do teste será de **5 dias corridos** após o env
 
 Faça um repositório em alguma plataforma de controle de versionamento ([github](https://github.com), [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/), etc) contendo o projeto e nos mande o link, notificando que a solução está entregue.
 
-## Pontos extras que podem fazer a diferença
-
-* Site responsivo.
-* Testes unitários e integrados.
-* Clean Code.
-* Previsão do tempo para X dias.
 
 ## FAQ
 
 >Posso utilizar bibliotecas externas?
 
 Sim.
-
-> Por que um Backend para consultar uma API externa?
-
- De modo geral, é mais interessante, pois, te dá mais controle e simplifica o consumo de vários clientes, exemplo: imagine que você tem vários consumidores requisitando essas API, um consumidor Web, um Android e um IOS. Caso você precise trocar a API que provém dados de clima, esta mudança será somente no back-end e não nos clientes que a consomem. Além disso, queremos saber também se você pode lidar com uma API que consome uma ou várias APIs.
 
 > E se o prazo estourar?
 
@@ -69,12 +59,6 @@ Sim.
 > Caso eu tiver alguma dúvida, poderei entrar em contato dentro deo prazo estipulado?
 
  Sim, se você tiver qualquer dúvida, sinta-se a vontade para entrar em contato conosco através do e-mail tecnologia@addesistemas.com.br
-
-### Exemplos de APIs que podem ser utilizadas
-
-* [Weatherbit](https://www.weatherbit.io/)
-* [OpenWeatherMap](https://rapidapi.com/community/api/open-weather-map)
-            [(exemplo de retorno)](http://api.openweathermap.org/data/2.5/weather?q=São%20paulo,br&lang=pt_br&units=metric&appid=aaa1129fc07f4aacb6763552a1f84c0b)
 
 ***
 ![logo footer](logo_ADDE_490x90.png)
